@@ -18,8 +18,8 @@ description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://firefox509.github.io"
-email: michaelthomastx@gmail.com
-github_username: firefox509
+email: michaelthomas.tx@gmail.com
+github_username:  firefox509
 linkedin_username: michaelthomastx
 
 # Build settings
