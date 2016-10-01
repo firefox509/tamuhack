@@ -19,9 +19,8 @@ description: >
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://firefox509.github.io"
 email: michaelthomastx@gmail.com
-github_username:  firefox509
+github_username: firefox509
 linkedin_username: michaelthomastx
-twitter_username: trustycoder
 
 # Build settings
 markdown: kramdown
